@@ -12,4 +12,5 @@
     <string name="begginerBtn">Begginer</string>
     <string name="ballerBtn">Baller</string>
     <string name="finishBtn">Finish</string>
+    <string name="search_league">Looking for a co-ed beginner league near you...</string>
 </resources>
